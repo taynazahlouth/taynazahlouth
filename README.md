@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="25" width="25" src="https://sc.filehippo.net/images/t_app-logo-l,f_auto,dpr_auto/p/857aef91-1205-4de4-895b-125e66acb5b7/3172864888/game-maker-studio-2-icon.png">
+  <img align="center" alt="Rafa-CSS" height="28" width="28" src="https://sc.filehippo.net/images/t_app-logo-l,f_auto,dpr_auto/p/857aef91-1205-4de4-895b-125e66acb5b7/3172864888/game-maker-studio-2-icon.png">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/338224_AcgSmKjq.png">
 </div>
  
