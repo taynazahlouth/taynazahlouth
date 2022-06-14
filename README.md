@@ -1,7 +1,7 @@
 ### Hello! 😊🌸 I'm Tayná Zahlouth. 
 
 - 🖼️ I'm an illustrator and gamedev! 
-- 🔭 I’m currently working on my indie game RPG project 
+- 🎮 I’m currently working on my indie game RPG project 
 - 🌱 I’m currently learning GML (Game Maker Language), Java, JavaScript & HTML/CSS
 - 📫 How to reach me: tayna.artes@gmail.com
 - 🌻 Pronouns: She/ her
