@@ -6,12 +6,7 @@
 - 📫 How to reach me: tayna.artes@gmail.com
 - 🌻 Pronouns: She/ her
 
-<div align="center">
-  <a href="https://beacons.ai/taynazahlouth">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taynazahlouth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Rafa-CSS" height="29" width="29" src="https://sc.filehippo.net/images/t_app-logo-l,f_auto,dpr_auto/p/857aef91-1205-4de4-895b-125e66acb5b7/3172864888/game-maker-studio-2-icon.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -19,7 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/338224_AcgSmKjq.png">
+  <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/338224_AcgSmKjq.png">
 </div>
  
 
