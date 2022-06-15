@@ -1,4 +1,4 @@
-### Hello! 😊🌸 I'm Tayná Zahlouth. 
+### Hello!😊 I'm Tayná Zahlouth. 
 
 - 🖼️ I'm an illustrator and gamedev! 
 - 🎮 I’m currently working on my indie game RPG project 
