@@ -2,7 +2,7 @@
 
 - 🖼️ I'm an illustrator and gamedev! 
 - 🎮 I’m currently working on my indie game RPG project 
-- 🌱 I’m learning GML (Game Maker Language), Java, JavaScript & HTML/CSS
+- 🌱 I’m learning GML, JavaScript & Java 
 - 🌻 Pronouns: She/ her
 <div style="display: inline_block">
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
