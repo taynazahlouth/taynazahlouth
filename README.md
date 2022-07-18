@@ -1,7 +1,6 @@
 ### Hello! 😊 I'm Tayná Zahlouth. 
 
-- 🖼️ I'm an illustrator and gamedev! 
-- 🎮 I’m currently working on my indie game RPG project 
+- 🖼️ I love making art, writing, programming and creating games!  
 - 🌱 I’m learning GML, JavaScript & Java 
 - 🌻 Pronouns: She/ her
 <div style="display: inline_block">
@@ -16,6 +15,4 @@
  <a href = "mailto:tayna.artes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tayn%C3%A1-zahlouth-8a039423a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.artstation.com/taynazahlouth" target="_blank"><img src="https://img.shields.io/badge/Artstation-9146FF?style=for-the-badge&logo=" target="_blank"></a>
- <div style="display: inline_block"><br>  
-  <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/338224_AcgSmKjq.png">
 </div>
