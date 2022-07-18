@@ -1,7 +1,7 @@
 ### Hello! 😊 I'm Tayná Zahlouth. 
 
-- 🖼️ I love making art, writing, programming and creating games!  
-- 🌱 I’m learning GML, JavaScript & Java 
+- 🌸 I love making art, writing, programming and creating games!  
+- 🌱 I’m currently learning JavaScript & Java 
 - 🌻 Pronouns: She/ her
 <div style="display: inline_block">
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
