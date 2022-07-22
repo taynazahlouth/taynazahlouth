@@ -1,4 +1,4 @@
-<h2 align="left">Hello! I'm Tayná Zahlouth 😊💻</h2>
+<h2 align="left">Hello world! 😊💻</h2>
 
 - 🌸 I love making art, writing, programming and creating games!  
 - 🌱 I’m currently learning JavaScript & Java 
