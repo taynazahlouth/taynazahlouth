@@ -17,6 +17,7 @@
   <img align="center" alt="Rafa-CSS" height="29" width="29" src="https://sc.filehippo.net/images/t_app-logo-l,f_auto,dpr_auto/p/857aef91-1205-4de4-895b-125e66acb5b7/3172864888/game-maker-studio-2-icon.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git">
   <h2 align="left">Connect with me:</h2>
  <div style="display: inline_block">
    <a href="https://instagram.com/laeryel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
