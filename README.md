@@ -1,15 +1,10 @@
-<h2 align="center">Hello! I'm Tayná Zahlouth 😊💻</h2>
+<h2 align="left">Hello! I'm Tayná Zahlouth 😊💻</h2>
 
 - 🌸 I love making art, writing, programming and creating games!  
 - 🌱 I’m currently learning JavaScript & Java 
 - 🌻 Pronouns: She/ her
 
-<div align="center">
-  <a href="https://github.com/taynazahlouth">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=taynazahlouth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taynazahlouth&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block">
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
