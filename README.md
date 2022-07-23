@@ -1,8 +1,8 @@
 <h2 align="left">Hello world! 😊💻</h2>
 
-- 🌸 I love making art, writing, programming and creating games!  
-- 🌱 I’m currently learning JavaScript & Java 
-- 🌻 Pronouns: She/ her
+🌸 I love making art, writing, programming and creating games!  
+🌱 I’m currently learning JavaScript & Java  
+🌻 Pronouns: She/ her
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block">
