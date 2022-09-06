@@ -13,8 +13,10 @@
   <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" >
   <img align="center" src="https://img.shields.io/badge/Electron-404D59?style=for-the-badge">
-  
+  <p> <p/>
   <img align="center" src="https://img.shields.io/badge/GameMaker-4B275F?style=for-the-badge">
+  <img align="center" src="https://img.shields.io/badge/Tyranobuilder-6DB33F?style=for-the-badge">
+  
  
   <h3 align="left">Connect with me:</h3>
  <div style="display: inline_block">
