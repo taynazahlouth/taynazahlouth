@@ -1,7 +1,6 @@
 <h2 align="left">Hello world! 😊💻</h2>
 
-🌻 I love making art, writing, programming and creating games!  
-📚 I’m currently studying C#   
+I love making art, writing, programming and creating games!  
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block">
