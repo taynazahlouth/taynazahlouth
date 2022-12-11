@@ -1,9 +1,13 @@
 <h2 align="left">Hello world! 😊💻</h2>
 
 🌈 I love making art, writing, coding and creating games! 
+
 ✨ I'm currently learning C# and Unity Game Engine
+
 🍃 I'm working on "Curumim", a 2D platformer game, with a super cool team!
+
 🍒 I'm also working on a Top Down RPG personal project :)
+
 🍬 I love sweets, reading books and manga
 
 <h3 align="left">Languages and Tools:</h3>
