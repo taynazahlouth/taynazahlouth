@@ -25,4 +25,3 @@ I love making art, writing, programming and creating games!
  </a>
 </div>
    <br/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taynazahlouth&layout=compact&langs_count=7&theme=dracula"/>
