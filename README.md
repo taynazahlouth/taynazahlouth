@@ -8,7 +8,6 @@
 
 🍒 I'm also working on a Top Down RPG personal project :)
 
-🍬 I love sweets, reading books and manga
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block">
