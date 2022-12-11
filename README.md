@@ -14,6 +14,7 @@ I love making art, writing, programming and creating games!
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git">
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
+  
  
   <h3 align="left">Connect with me:</h3>
  <div style="display: inline_block">
@@ -23,3 +24,5 @@ I love making art, writing, programming and creating games!
   <a href="https://www.artstation.com/taynazahlouth" target="_blank"><img src="https://img.shields.io/badge/Artstation-9146FF?style=for-the-badge&logo=" target="_blank">
  </a>
 </div>
+   <br/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taynazahlouth&layout=compact&langs_count=7&theme=dracula"/>
