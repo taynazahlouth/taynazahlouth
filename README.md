@@ -2,9 +2,9 @@
 
 🌈 I love making art, writing, coding and creating games! 
 
-✨ I'm currently learning C# and Unity game engine
+✨ I'm currently learning C# and Unity game engine;
 
-🍃 I'm working on "Curumim", a 2D platformer game, with a super cool team!
+🍃 I'm working on "Curumim", a 2D platformer game, with a super cool team
 
 🍒 I'm also working on a Top Down RPG personal project :)
 
@@ -29,7 +29,6 @@
    <a href="https://instagram.com/laeryel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:tayna.artes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tayn%C3%A1-zahlouth-8a039423a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://discord.gg/Y9W9G5efxt" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.artstation.com/taynazahlouth" target="_blank"><img src="https://img.shields.io/badge/Artstation-9146FF?style=for-the-badge&logo=" target="_blank">
  </a>
 </div>
