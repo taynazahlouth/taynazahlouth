@@ -2,12 +2,11 @@
 
 🌈 I love making art, writing, coding and creating games! 
 
-✨ I'm currently learning C# and Unity game engine
+✨ I'm studying C# /.NET and making games with Unity 
 
-🍃 I'm working on "Curumim", a 2D platformer game, with a super cool team
+🍃 I'm working on "Curumim", a platformer game, with a super cool team
 
-🍒 I'm also working on a Top Down RPG personal project :)
-
+🦄 I'm also working on my action/adventure game project :)
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block">
