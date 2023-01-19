@@ -1,12 +1,13 @@
 <h2 align="left">Hello world! 😊💻</h2>
 
-🌈 I love making art, writing, coding and creating games! 
+🌈 I love making art, writing and coding! 
 
 ✨ I'm studying C# /.NET and making games with Unity 
 
 🍃 I'm working on "Curumim", a platformer game, with a super cool team
 
-🦄 I'm also working on my action/adventure game project :)
+🦄 I'm also working on a personal game project :)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block">
