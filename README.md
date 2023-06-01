@@ -2,6 +2,8 @@
 
 🌈 I love making art, writing and programming! 
 
+🎨 I'm a freelancer artist
+
 ✨ I'm studying C# and making games with Unity 
 
 🌙 I'm working on "Ceres", an educational game :)
