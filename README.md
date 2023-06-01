@@ -4,7 +4,7 @@
 
 🌙 I'm working on "Ceres", an educational game :)
 
-✨ I'm studying C# /.NET and making games with Unity 
+✨ I'm studying C# and making games with Unity 
 
 🦄 I'm also working on a action / adventure game project :)
 
