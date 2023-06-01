@@ -2,9 +2,9 @@
 
 🌈 I love making art, writing and programming! 
 
-🌙 I'm working on "Ceres", an educational game :)
-
 ✨ I'm studying C# and making games with Unity 
+
+🌙 I'm working on "Ceres", an educational game :)
 
 🦄 I'm also working on a action / adventure game project :)
 
