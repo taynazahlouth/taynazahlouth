@@ -1,7 +1,5 @@
 <h2 align="left">Hello world! 😊💻</h2>
 
-🌈 I love making art, writing and programming! 
-
 🎨 I'm a freelancer artist
 
 ✨ I'm studying C# and making games with Unity 
