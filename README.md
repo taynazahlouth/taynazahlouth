@@ -2,11 +2,11 @@
 
 🌈 I love making art, writing and programming! 
 
+🌙 I'm working on "Ceres", an educational game :)
+
 ✨ I'm studying C# /.NET and making games with Unity 
 
-🍃 I'm working on "Curumim", a platformer game, with a super cool team
-
-🦄 I'm also working on a personal game project :)
+🦄 I'm also working on a action / adventure game project :)
 
 
 <h3 align="left">Languages and Tools:</h3>
