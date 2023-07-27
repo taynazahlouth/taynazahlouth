@@ -1,8 +1,8 @@
 <h2 align="left">Hello world! 😊💻</h2>
 
-🎨 I'm a freelancer artist
+🎨 I'm a freelancer artist and game developer!
 
-✨ I'm studying C# and making games with Unity 
+✨ I'm studying C# and learning Unity 
 
 🌙 I'm working on "Ceres", an educational game :)
 
