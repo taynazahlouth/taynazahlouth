@@ -1,6 +1,6 @@
 <h2 align="left">Hello world! 😊💻</h2>
 
-🎨 I'm a artist and game developer!
+🎨 I'm an artist and game developer!
 
 ✨ I'm studying C# and learning Unity 
 
