@@ -1,14 +1,12 @@
 <h2 align="left">Hello world! 😊💻</h2>
 
-🎨 I'm a freelancer artist and game developer!
+🎨 I'm a artist and game developer!
 
 ✨ I'm studying C# and learning Unity 
 
-🌙 I'm working on "Ceres", an educational game :)
+🦄 I'm working on a personal game project :)
 
-🦄 I'm also working on a action / adventure game project :)
-
-
+ 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block">
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
