@@ -6,6 +6,8 @@
 
 🌿 I also love joining game jams. :)
 
+(🌸 Profile pic by my friend Sonia Teixeira) 
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block">
