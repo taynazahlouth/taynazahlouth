@@ -1,12 +1,12 @@
 <h2 align="left">Hello world! 😊💻</h2>
 
-🎨 I'm an artist and game developer!
+🌿 Hello! I'm a editorial illustrator by day and indie game dev by night.
 
-✨ I'm studying C# and learning Unity 
+🌿 I'm studying C# and Unity game engine, while I work on personal game projects.
 
-🦄 I'm working on a personal game project :)
+🌿 I also love joining game jams. :)
 
- 
+
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block">
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -30,6 +30,4 @@
  </a>
 </div>
    <br/>
-   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taynazahlouth"/>
    
