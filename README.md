@@ -1,6 +1,6 @@
 <h2 align="left">Hello world! 😊💻</h2>
 
-🌿 Hello! I'm a editorial illustrator by day and indie game dev by night.
+🌿 I'm a editorial illustrator by day and indie game dev by night.
 
 🌿 I'm studying C# and Unity game engine, while I work on personal game projects.
 
