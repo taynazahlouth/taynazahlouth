@@ -1,8 +1,8 @@
 <h2 align="left">Hello world! 😊💻</h2>
 
-🎨 I'm a editorial illustrator by day and indie game dev by night.
+🎨 I'm a editorial illustrator by day and game dev by night.
 
-📚 I'm studying C# and Unity game engine, while I work on personal game projects.
+📚 I'm studying C# and Unity, while I work on personal game projects.
 
 🎮 I also love joining game jams. :)
 
