@@ -10,12 +10,9 @@
 
 💾 I can speak Portuguese and English.
 
-🌿 I also enjoy reading 📚, watching anime, movies 🍿 and playing games. 🕹️
-
-
+🌿 I also enjoy reading books, comics and watching anime & movies. 
 
 <hr>
-
 
 <h2 align="left"> 💻 Languages </h2>
 
