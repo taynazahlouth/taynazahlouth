@@ -15,13 +15,12 @@
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![GML](https://img.shields.io/badge/GML-purple?logo=gamemaker&logoColor=violet)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
-
-
 
 <h2 align="left"> 👾 Game Development </h2>
 
@@ -29,18 +28,20 @@
 [![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
 [![Tyranobuilder](https://img.shields.io/badge/Tyranobuilder-violet)](#)
 
-
-
 <h2 align="left"> ☕ IDEs </h2>
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
 [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
 
-
 <hr>
-  (🌸 Profile pic by my friend Sonia Teixeira) 
- 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taynazahlouth&layout=donut&&theme=transparent)](https://github.com/taynazahlouth/github-readme-stats)
+
+<BR>
+  🌸 CREDITS: Profile pic by my friend Sonia Teixeira 🌸
+
+  
  </a>
 </div>
    <br/>
