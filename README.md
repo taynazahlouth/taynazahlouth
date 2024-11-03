@@ -36,10 +36,7 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taynazahlouth&layout=donut&&theme=transparent)](https://github.com/taynazahlouth/github-readme-stats)
-
-<BR>
-  🌸 CREDITS: Profile pic by my friend Sonia Teixeira 🌸
+🌸 CREDITS: Profile pic by my friend Sonia Teixeira 🌸
 
   
  </a>
