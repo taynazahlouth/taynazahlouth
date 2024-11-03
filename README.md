@@ -10,7 +10,7 @@
 
 💾 I can speak Portuguese and English.
 
-🌿 Outside programming, I enjoy reading 📚, watching anime & movies 🍿 and playing games 🕹️ (PC and Nintendo Switch). 
+🌿 My hobbies are reading 📚, watching anime, movies 🍿 and playing games 🕹️. 
 
 
 
