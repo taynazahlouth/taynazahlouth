@@ -10,7 +10,7 @@
 
 💾 I can speak Portuguese and English.
 
-🌿 My hobbies are reading 📚, watching anime, movies 🍿 and playing games 🕹️. 
+🌿 Outside art & tech, my hobbies are reading 📚, watching anime, movies 🍿 and playing games 🕹️. 
 
 
 
