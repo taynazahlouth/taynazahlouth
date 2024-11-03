@@ -1,4 +1,6 @@
-<h2 align="left">Hello world! 😊💻</h2>
+<h2 align="left">Hello world! 😊💻</h2> 
+
+<img align="right" width=200px alt="coding" src="https://media1.tenor.com/m/xA4q0AO9UH0AAAAd/keyboard-hanamaru-kindergarten.gif"/>
 
 🎨 I'm a editorial illustrator by day and game dev by night.
 
@@ -7,6 +9,10 @@
 🎮 I also love joining game jams. :)
 
 💾 I can speak Portuguese and English.
+
+🌿 Outside programming, I enjoy reading 📚, watching anime & movies 🍿 and playing games 🕹️ (PC and Nintendo Switch). 
+
+
 
 <hr>
 
