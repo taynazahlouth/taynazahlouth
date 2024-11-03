@@ -1,7 +1,5 @@
 <h2 align="left">Hello world! 😊💻</h2> 
 
-<img align="right" width=200px alt="coding" src="https://media1.tenor.com/m/xA4q0AO9UH0AAAAd/keyboard-hanamaru-kindergarten.gif"/>
-
 🎨 I'm a editorial illustrator by day and game dev by night.
 
 📚 I'm studying C# and Unity, while I work on personal game projects.
@@ -43,6 +41,8 @@
 <hr>
 
 🌸 CREDITS: Profile pic by my friend Sonia Teixeira 🌸
+
+<img align="left" width=200px alt="coding" src="https://media1.tenor.com/m/xA4q0AO9UH0AAAAd/keyboard-hanamaru-kindergarten.gif"/>
 
   
  </a>
