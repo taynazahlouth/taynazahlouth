@@ -6,11 +6,11 @@
 
 📚 I'm studying C# and Unity, while I work on personal game projects.
 
-🎮 I also love joining game jams. :)
+🎮 I love joining game jams. :)
 
 💾 I can speak Portuguese and English.
 
-🌿 Outside art & tech, my hobbies are reading 📚, watching anime, movies 🍿 and playing games 🕹️. 
+🌿 I also enjoy reading 📚, watching anime, movies 🍿 and playing games. 🕹️
 
 
 
