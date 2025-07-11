@@ -6,7 +6,7 @@
 
 🍫 I'm learning Blender and working on a small 3D game project 
 
-🪴 I'm trying to balance my work and studies, while maintaining my personal projects consistently
+🪴 I'm trying to balance my work and studies, and keep working my personal projects consistently
 
 🍓 I enjoy reading, watching animes, movies and playing games in my free time (PC and Nintendo Switch)
 
