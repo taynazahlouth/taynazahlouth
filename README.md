@@ -1,12 +1,12 @@
 <h2 align="left">Hello world! 😊💻</h2> 
 
-🎨 I'm an artist, editorial illustrator and indie game dev 
+🎨 I'm an artist, illustrator and indie game dev 
 
 🧁 I'm also an Animation Design grad student 
 
 🍫 I'm learning Blender and working on a small 3D game project 
 
-🪴 I'm trying to balance my work and studies, and keep working my personal projects consistently
+🪴 I'm trying to balance my work and studies, and keep working on my personal projects consistently
 
 🍓 I enjoy reading, watching animes, movies and playing games in my free time (PC and Nintendo Switch)
 
