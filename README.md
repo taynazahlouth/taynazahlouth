@@ -30,8 +30,6 @@
 
 <hr>
 
-🌸 CREDITS: Profile pic by my friend Sonia Teixeira 🌸
-
 <img align="left" width=200px alt="coding" src="https://media1.tenor.com/m/xA4q0AO9UH0AAAAd/keyboard-hanamaru-kindergarten.gif"/>
 
   
