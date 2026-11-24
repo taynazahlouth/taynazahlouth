@@ -6,7 +6,7 @@
 
 🪴 I'm trying to find a healthy balance in my work and personal projects
 
-🍓 I enjoy reading, watching animes, movies, dancing and playing games in my free time (PC and Nintendo Switch)
+🍓 I enjoy reading, animes, movies, dancing and playing games (PC and Nintendo Switch)
 
 <hr>
 
