@@ -16,8 +16,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)](#)
-[![GML](https://img.shields.io/badge/GML-purple?style=for-the-badge&logo=gamemaker&logoColor=violet)](#)
-[![C](https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=css3&logoColor=fff)](#)
 
 <h2 align="left"> 👾 Game Development </h2>
 
